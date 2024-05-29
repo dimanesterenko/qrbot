@@ -3,7 +3,7 @@ from telebot import types
 import os
 
 from qr_implementation import generate_qr_code
-API_TOKEN = '7135897142:AAFInzxJBBNIMe9uDiwFx2Z75ce1dD39J-0'
+API_TOKEN = '#################################'
 
 bot=telebot.TeleBot(API_TOKEN)
 user_data={}
